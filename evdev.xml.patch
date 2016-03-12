@@ -1,0 +1,15 @@
+--- evdev.xml.original	2016-03-11 15:31:16.878849095 -0500
++++ evdev.xml	2016-03-11 15:30:37.132029259 -0500
+@@ -1580,6 +1580,12 @@
+         </variant>
+         <variant>
+           <configItem>
++            <name>dvorak</name>
++            <description>Arabic (Dvorak)</description>
++          </configItem>
++        </variant>
++        <variant>
++          <configItem>
+             <name>qwerty_digits</name>
+             <description>Arabic (qwerty/digits)</description>
+           </configItem>
