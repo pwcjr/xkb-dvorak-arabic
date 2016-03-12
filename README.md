@@ -2,6 +2,8 @@
 
 This layout was created to retain the Arabic "QWERTY" layout when using a Dvorak hardware keyboard.
 
+![Arabic QWERTY layout](layout.png)
+
 ### Installation
 
 The included script "install.sh" will apply patches to the appropriate files provided they are not already patched, and that dry-run patches succeed. The script does require super user privileges to modify the XKB files.
